@@ -1,0 +1,149 @@
+﻿@page
+@model IndexModel
+@{
+	ViewData["Title"] = "Home page";
+}
+
+<style>
+	* {
+		padding: 0;
+		margin: 0;
+		color: white;
+	}
+
+	#navbar {
+		height: 90px;
+		background-color: #197b4a;
+		padding: 0 50px;
+		display: flexbox;
+		align-items: center;
+		color: black;
+	}
+
+	.events:hover {
+		background-color: #7a867d;
+		opacity: 0.8;
+	}
+
+	.aboutus:hover {
+		background-color: #28332b;
+		opacity: 0.8;
+	}
+
+	.myprofile:hover {
+		background-color: 495E57;
+		opacity: 0.8;
+	}
+
+	.components {
+		padding-top: 0px;
+	}
+
+	#a {
+		text-decoration: none;
+		font-size: larger;
+	}
+
+	body, html {
+		height: 100%;
+	}
+
+	/* The hero image */
+	.hero-image {
+		/* Use "linear-gradient" to add a darken background effect to the image (photographer.jpg). This will make the text easier to read */
+		background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("handsshake.jpg");
+		/* Set a specific height */
+		height: 70%;
+		/* Position and center the image to scale nicely on all screens */
+		background-position: center;
+		background-repeat: no-repeat;
+		background-size: cover;
+	}
+
+	/* Place text in the middle of the image */
+	.hero-text {
+		text-align: center;
+		font-size: larger;
+		padding-top: 15%;
+		color: white;
+		width: 100%;
+		height: 500px;
+	}
+
+	#logo {
+		color: #F4CE14;
+		font-size: 35px;
+	}
+
+	a {
+		margin-right: 200px;
+	}
+
+	#h1 {
+		color: #F4CE14;
+	}
+
+	.button {
+		border-radius: 8px;
+		background-color: #197b4a; /* Green */
+		border: none;
+		color: rgb(0, 0, 0);
+		padding: 15px 32px;
+		text-align: center;
+		text-decoration: none;
+		display: table-row-group;
+		text-decoration-color: black;
+		width: 520px;
+		height: 380px;
+		gap: 90px;
+		font-size: 20px;
+		margin: 40px 60px;
+		cursor: pointer;
+		-webkit-transition-duration: 0.4s; /* Safari */
+		transition-duration: 0.4s;
+	}
+
+	.button1:hover {
+		box-shadow: 30px 60px 80px 10px rgba(0, 0, 0, 0.24),0 17px 50px 0 rgba(0, 0, 0, 0.19);
+	}
+
+	.button2:hover {
+		background-color: rgb(102, 171, 102);
+		box-shadow: 30px 60px 80px 10px rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+	}
+
+	.button1, .button2 {
+		background-color: rgb(102, 171, 102);
+		color: #F4CE14;
+	}
+</style>
+
+<div id="navbar">
+	<a id="logo">BangaloreBizBridge.in</a>
+</div>
+<div class="hero-image">
+	<div class="hero-text">
+		<h1 id="h1"> OUR MISSION</h1>
+		<p>our mission is to cultivate dynamic connections that ignite innovation, propel economic advancement, and generate lasting impact.</p>
+		<!--<button></button>-->
+	</div>
+</div>
+<div>
+	<div style="float:left;">
+		<a asp-page="/InvestorRegistration" style="text-decoration:none;">
+			<button class=" button button1" id="InvestorBtn">
+				<h1>INVESTORS</h1>
+				<br>
+				<h5>"Click here to log in and explore impactful investment opportunities that align with your values and goals."</h5>
+			</button>
+		</a>
+		<a asp-page="/EntrepreneurRegister" style="text-decoration:none;">
+			<button class="button button2" id="EntrepreneurBtn">
+				<h1>ENTERPRENEURS</h1>
+				<br>
+				<h5>"Click here to unlock your entrepreneurial potential with every login, for each step forward is a gateway to endless opportunities and growth."</h5>
+			</button>
+		</a>
+	</div>
+</div>
+

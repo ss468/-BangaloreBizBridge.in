@@ -1,0 +1,12 @@
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\bin\Debug\net8.0\InvestHub.Core.deps.json
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\bin\Debug\net8.0\InvestHub.Core.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\bin\Debug\net8.0\InvestHub.Core.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.csproj.AssemblyReference.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.AssemblyInfoInputs.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.AssemblyInfo.cs
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.csproj.CoreCompileInputs.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\refint\InvestHub.Core.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\InvestHub.Core.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Core\obj\Debug\net8.0\ref\InvestHub.Core.dll

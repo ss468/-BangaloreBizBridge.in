@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ltNyLzwrl+jz8DGdUy1RrfdiFeYJqpE5OOZZ6TRpmEA=",
+  "Source": "InvestHub.API",
+  "BasePath": "_content/InvestHub.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

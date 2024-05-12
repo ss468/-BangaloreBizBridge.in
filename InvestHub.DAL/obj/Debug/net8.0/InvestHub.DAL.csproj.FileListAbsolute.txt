@@ -1,0 +1,15 @@
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\bin\Debug\net8.0\InvestHub.DAL.deps.json
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\bin\Debug\net8.0\InvestHub.DAL.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\bin\Debug\net8.0\InvestHub.DAL.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\bin\Debug\net8.0\InvestHub.Core.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\bin\Debug\net8.0\InvestHub.Core.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.csproj.AssemblyReference.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.AssemblyInfoInputs.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.AssemblyInfo.cs
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.csproj.CoreCompileInputs.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHu.B8C0E642.Up2Date
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\refint\InvestHub.DAL.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\InvestHub.DAL.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.DAL\obj\Debug\net8.0\ref\InvestHub.DAL.dll

@@ -1,0 +1,15 @@
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\bin\Debug\net8.0\InvestHub.Service.deps.json
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\bin\Debug\net8.0\InvestHub.Service.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\bin\Debug\net8.0\InvestHub.Service.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\bin\Debug\net8.0\InvestHub.Core.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\bin\Debug\net8.0\InvestHub.Core.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.csproj.AssemblyReference.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.AssemblyInfoInputs.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.AssemblyInfo.cs
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.csproj.CoreCompileInputs.cache
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHu.BE19DF34.Up2Date
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\refint\InvestHub.Service.dll
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\InvestHub.Service.pdb
+C:\Temp for testing\Hackathon\InvestHub\InvestHub.Service\obj\Debug\net8.0\ref\InvestHub.Service.dll
